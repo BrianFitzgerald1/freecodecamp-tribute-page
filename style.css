@@ -1,3 +1,9 @@
-#title {
-    
+* {
+	font-family: /*Arial, */ Helvetica, sans-serif;
+}
+#image {
+	width: 50%;
+	min-width: 40%;
+	max-width: 976px;
+	height: auto;
 }
