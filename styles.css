@@ -1,3 +1,9 @@
+body {
+	color: #0a1b03;
+	font-family: "segoe UI", Arial, sans-serif;
+	background-color: #adf294;
+}
+
 * {
 	font-family: /*Arial, */ Helvetica, sans-serif;
 }
