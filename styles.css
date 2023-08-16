@@ -4,10 +4,12 @@ body {
 	background-color: #adf294;
 }
 
-* {
-	font-family: /*Arial, */ Helvetica, sans-serif;
+main {
+	min-width: 500px;
+	background-color: #d4ffb9;
+	margin: 30px 10px;
 }
 
-#main {
-	background-color: grey;
+* {
+	font-family: /*Arial, */ Helvetica, sans-serif;
 }
